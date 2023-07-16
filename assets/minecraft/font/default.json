@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/admin_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/developer_icon.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/developer_icon_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/vip_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/vip_icon_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/vip_icon.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE006"]
+        }
+    ]
+}
