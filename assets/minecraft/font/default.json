@@ -41,6 +41,20 @@
             "ascent": 7,
             "height": 7,
             "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/information_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/information_icon_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE008"]
         }
     ]
 }
