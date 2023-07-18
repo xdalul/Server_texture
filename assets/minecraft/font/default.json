@@ -61,14 +61,15 @@
             "file": "minecraft:craftattack/npc_tag.png",
             "ascent": 7,
             "height": 7,
-            "chars": ["\uE008"]
+            "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:craftattack/npc_icon_tag.png",
             "ascent": 7,
             "height": 7,
-            "chars": ["\uE008"]
+            "chars": ["\uE010"]
         }
     ]
 }
+
