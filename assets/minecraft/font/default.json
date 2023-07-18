@@ -2,56 +2,70 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:sb/admin_tag.png",
+            "file": "minecraft:craftattack/admin_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/developer_icon.png",
+            "file": "minecraft:craftattack/developer_icon.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/developer_icon_tag.png",
+            "file": "minecraft:craftattack/developer_icon_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/vip_tag.png",
+            "file": "minecraft:craftattack/vip_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/vip_icon_tag.png",
+            "file": "minecraft:craftattack/vip_icon_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/vip_icon.png",
+            "file": "minecraft:craftattack/vip_icon.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/information_tag.png",
+            "file": "minecraft:craftattack/information_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/information_icon_tag.png",
+            "file": "minecraft:craftattack/information_icon_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/npc_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/npc_icon_tag.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uE008"]
