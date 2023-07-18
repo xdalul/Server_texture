@@ -69,7 +69,27 @@
             "ascent": 7,
             "height": 7,
             "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/spielzeit_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/status_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/spieleronline_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE013"]
         }
     ]
 }
-
