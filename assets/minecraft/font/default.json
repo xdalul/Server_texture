@@ -90,6 +90,27 @@
             "ascent": 7,
             "height": 7,
             "chars": ["🐔"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/special_item_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/edition_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/von_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE013"]
         }
     ]
 }
