@@ -111,6 +111,13 @@
             "ascent": 7,
             "height": 7,
             "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/afk_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE014"]
         }
     ]
 }
