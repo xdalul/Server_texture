@@ -118,6 +118,20 @@
             "ascent": 7,
             "height": 7,
             "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/builder_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:craftattack/builder_icon_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE016"]
         }
     ]
 }

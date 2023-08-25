@@ -1,1 +1,8 @@
-{ "sources": [ { "type": "directory", "source": "custom", "prefix": "custom/" } ] }
+{ "sources":
+ [ 
+    { "type": "directory",
+     "source": "custom",
+      "prefix": "custom/" 
+      } 
+    ] 
+}
